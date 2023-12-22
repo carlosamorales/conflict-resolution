@@ -1,2 +1,2 @@
-# conflict-resolution by Carlos Morales
+# conflict-resolution by me
 
